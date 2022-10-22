@@ -14,3 +14,11 @@ function save() {
   saveEl.innerText += save;
   countEl.innerText = "0";
 }
+
+// let firstName = "Ahmar !";
+// let greeting = "Hi dear";
+
+// function calling() {
+//   console.log(greeting + firstName);
+// }
+// calling();
